@@ -2,7 +2,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 
 ### ⚡ Relevant achievements
 - Worked in the Wordpress Team for the redesign of <a href = "https://www.campbells.com/kitchen/">Campbells's Kitchen</a>
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<img src= "https://github.com/dcaste/dcaste/blob/master/dcaste-campbells.png"></img>
 
 ### ✔️ I'm currently learning
 - JavaScript
