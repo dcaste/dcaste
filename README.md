@@ -15,7 +15,6 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 ## 👑 Achievements
 * Speaker at Nicaraguan Wordpress community. Use of responsive images in Wordpress natively and with the Advanced Custom Fields plugin.
 * Worked in the Wordpress Team for the redesign of <a href = "https://www.campbells.com/kitchen/">Campbells's Kitchen</a>
-<img src= "https://github.com/dcaste/dcaste/blob/master/dcaste-campbells.png"></img>
 
 ## 📚 I'm currently learning
 * [ ] JavaScript
