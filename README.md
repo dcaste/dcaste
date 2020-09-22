@@ -21,7 +21,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * [ ] ReactJS
 * [ ] Gatsby
 * [ ] Frontity
-* [ ] German language. Currently A2 level. :de:
+* [ ] German language. Currently level: A2
 
 ## ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
