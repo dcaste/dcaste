@@ -18,3 +18,5 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 - LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
 - Website: coming soon
 <br>
+<br>
+![Dax's Github stats](https://github-readme-stats.vercel.app/api?username=dcaste&show_icons=true)
