@@ -2,7 +2,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 ---
 
 ## ✔️ Technologies experience 
-* **Front-end development:** HTML5, Javascript, ReactJS (learning), JQuery, CSS3, SASS, LESS, Bootstrap, Foundation
+* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Basics of Javascript ES6 and ReactJS
 * **Databases:** MySQL, MariaDB
 * **Backend:** PHP
 * **WordPress:** Custom WP Themes and Plugins, WooCommerce, Advanced Custom Fields
@@ -16,8 +16,8 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * Speaker at Nicaraguan Wordpress community. Use of responsive images in Wordpress natively and with the Advanced Custom Fields plugin.
 * Worked in the Wordpress Team for the redesign of <a href = "https://www.campbells.com/kitchen/">Campbells's Kitchen</a>
 
-## 📚 I'm currently learning
-* [ ] JavaScript
+## 📚 I'm currently Learning/Improving
+* [ ] JavaScript ES6
 * [ ] ReactJS
 * [ ] Gatsby
 * [ ] Frontity
