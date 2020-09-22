@@ -1,16 +1,21 @@
-### Hi there 👋
+I'm a Web Developer living in Switzerland with 15 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices.
 
-<!--
-**dcaste/dcaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Relevant achievements
+- Awarded 1st place on Code First Girl's Web Dev course
+- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
+- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
 
-Here are some ideas to get you started:
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+- Gatsby
+- Frontity
+- German language. Currently A2 level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 I'm working on
+- Building ReactJS projects and my portfolio website.
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
+- Website: coming soon
+<br>
