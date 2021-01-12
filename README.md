@@ -1,8 +1,12 @@
+## ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
+- Website: https://daxcastellon.dev
+
 I'm a Web Developer living in Switzerland with 15 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices.
 ---
 
 ## ✔️ Technologies experience 
-* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Basics of Javascript ES6 and ReactJS
+* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Javascript ES6, ReactJS, NExtJs
 * **Databases:** MySQL, MariaDB
 * **Backend:** PHP
 * **WordPress:** Custom WP Themes and Plugins, WooCommerce, Advanced Custom Fields
@@ -19,12 +23,8 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 ## 📚 I'm currently Learning/Improving
 * [ ] JavaScript ES6
 * [ ] ReactJS
+* [ ] NextJS
 * [ ] Gatsby
 * [ ] Frontity
+* [ ] Strapi CMS
 * [ ] German language. Currently level: A2
-
-## ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
-- Website: coming soon
-<br>
-<br>
