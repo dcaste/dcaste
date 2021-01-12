@@ -6,7 +6,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 ---
 
 ## ✔️ Technologies experience 
-* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Javascript ES6, ReactJS, NExtJs
+* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Javascript ES6, ReactJS, NextJs
 * **Databases:** MySQL, MariaDB
 * **Backend:** PHP
 * **WordPress:** Custom WP Themes and Plugins, WooCommerce, Advanced Custom Fields
