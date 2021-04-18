@@ -10,6 +10,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * **Databases:** MySQL, MariaDB
 * **Backend:** PHP
 * **WordPress:** Custom WP Themes and Plugins, WooCommerce, Advanced Custom Fields
+* **Strapi:** customized backend API
 * **Design/Video:** Adobe Photoshop, Adobe Premiere, Adobe LightRoom, Luminar
 * **SEO:** Insite optimization, Google Analytics, Schema.org structured data
 
