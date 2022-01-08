@@ -22,10 +22,10 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * Worked in the Wordpress Team for the redesign of <a href = "https://www.campbells.com/kitchen/">Campbells's Kitchen</a>
 
 ## 📚 I'm currently Learning/Improving
-* [ ] JavaScript ES6
-* [ ] ReactJS
-* [ ] NextJS
+* [x] JavaScript ES6
+* [x] ReactJS
+* [x] NextJS
+* [x] Strapi CMS
 * [ ] Gatsby
 * [ ] Frontity
-* [ ] Strapi CMS
-* [ ] German language. Currently level: A2
+* [ ] German language. Currently level: B1
