@@ -15,7 +15,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * **SEO:** Insite optimization, Google Analytics, Schema.org structured data
 
 ## 💻 I'm working on
-- Building ReactJS projects and my portfolio website.
+- Building Svelte projects and connect them to WordPress.
 
 ## 👑 Achievements
 * Speaker at Nicaraguan Wordpress community. Use of responsive images in Wordpress natively and with the Advanced Custom Fields plugin.
@@ -26,6 +26,7 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * [x] ReactJS
 * [x] NextJS
 * [x] Strapi CMS
+* [ ] Svelte
 * [ ] Gatsby
 * [ ] Frontity
 * [ ] German language. Currently level: B1
