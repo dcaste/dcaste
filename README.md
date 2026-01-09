@@ -1,6 +1,5 @@
 ## ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
-- Website: https://daxcastellon.dev
 
 I'm a Web Developer living in Switzerland with 20 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices. I have started to use Strapi and Svelte!
 ---
