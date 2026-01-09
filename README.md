@@ -2,7 +2,7 @@
 - LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
 - Website: https://daxcastellon.dev
 
-I'm a Web Developer living in Switzerland with 15 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices. I have started to use Strapi and Svelte!
+I'm a Web Developer living in Switzerland with 20 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices. I have started to use Strapi and Svelte!
 ---
 
 ## ✔️ Technologies experience 
@@ -27,7 +27,4 @@ I'm a Web Developer living in Switzerland with 15 years of experience. I love to
 * [x] NextJS
 * [x] Strapi CMS
 * [ ] Svelte
-* [ ] Gatsby
-* [ ] Frontity
-* [ ] Typescript
 * [x] German language. Currently level: B1
