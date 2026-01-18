@@ -34,14 +34,6 @@ My core strength is transforming WordPress into a **fully customized, high-perfo
 
 ---
 
-### 🏆 Highlights
-- Speaker at the **Nicaraguan WordPress Community**  
-  *(Responsive images in WordPress & Advanced Custom Fields)*
-- Contributor to the WordPress team for the redesign of  
-  👉 https://www.campbells.com/kitchen/
-
----
-
 ### 💻 Currently working on
 - Building **Svelte frontends connected to WordPress**
 - Exploring **headless CMS architectures**
