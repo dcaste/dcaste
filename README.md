@@ -1,29 +1,60 @@
-## ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/daxcastellonmeyrat/">Dax Castellón</a>
+## Hi, I’m Dax Castellón 👋
 
-I'm a Web Developer living in Switzerland with 20 years of experience. I love to create elegant, fast loading and easy to use websites. I've got a lot of experience building customized websites with Wordpress as CMS and using SEO best practices. I have started to use Strapi and Svelte!
+I’m a **Senior WordPress & Web Developer** with 20+ years of experience building **fast, scalable and SEO-optimized websites**.
+
+My core strength is transforming WordPress into a **fully customized, high-performance CMS**, often combined with **modern frontend frameworks**.
+
 ---
 
-## ✔️ Technologies experience 
-* **Front-end development:** HTML5, JQuery, CSS3, SASS, LESS, Bootstrap, Foundation, Javascript ES6, ReactJS, NextJs
-* **Databases:** MySQL, MariaDB
-* **Backend:** PHP
-* **WordPress:** Custom WP Themes and Plugins, WooCommerce, Advanced Custom Fields
-* **Strapi:** customized backend API
-* **Design/Video:** Adobe Photoshop, Adobe Premiere, Adobe LightRoom, Luminar
-* **SEO:** Insite optimization, Google Analytics, Schema.org structured data
+### 🚀 What I do best
+- Custom WordPress themes & plugins (no page builders)
+- Advanced Custom Fields for flexible editorial experiences
+- SEO-friendly, fast-loading websites
 
-## 💻 I'm working on
-- Building Svelte projects and connect them to WordPress.
+---
 
-## 👑 Achievements
-* Speaker at Nicaraguan Wordpress community. Use of responsive images in Wordpress natively and with the Advanced Custom Fields plugin.
-* Worked in the Wordpress Team for the redesign of <a href = "https://www.campbells.com/kitchen/">Campbells's Kitchen</a>
+### 🔧 Tech Stack
+**Frontend**
+- HTML5, CSS3, SASS, LESS
+- JavaScript (ES6), Next.js, Svelte
+- Bootstrap, Foundation, Tailwind
 
-## 📚 I'm currently Learning/Improving
-* [x] JavaScript ES6
-* [x] ReactJS
-* [x] NextJS
-* [x] Strapi CMS
-* [ ] Svelte
-* [x] German language. Currently level: B1
+**Backend / CMS**
+- PHP
+- WordPress (Themes, Plugins, WooCommerce, ACF)
+- Strapi (custom APIs)
+
+**Data**
+- MySQL, MariaDB
+
+**SEO & Analytics**
+- On-site SEO optimization
+- Google Analytics
+- Schema.org structured data
+
+---
+
+### 🏆 Highlights
+- Speaker at the **Nicaraguan WordPress Community**  
+  *(Responsive images in WordPress & Advanced Custom Fields)*
+- Contributor to the WordPress team for the redesign of  
+  👉 https://www.campbells.com/kitchen/
+
+---
+
+### 💻 Currently working on
+- Building **Svelte frontends connected to WordPress**
+- Exploring **headless CMS architectures**
+
+---
+
+### 📚 Currently learning
+- Svelte
+- n8n
+- Improving German (B1 → B2)
+- Improving Italian (A1)
+
+---
+
+### ☕ Get in touch
+- LinkedIn: https://www.linkedin.com/in/daxcastellonmeyrat/
