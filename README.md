@@ -1,6 +1,6 @@
-## Hi, I’m Dax Castellón 👋
+## Hi, I'm Dax Castellón 👋
 
-Full Stack Web Developer with 20+ years of experience building **high-performance websites and scalable e-commerce platforms**.
+Senior Full Stack Web Developer with 20+ years of experience building **high-performance websites and scalable e-commerce platforms**.
 
 I specialize in turning WordPress into a **custom-engineered CMS**, combining it with modern frontend frameworks and solid backend architecture.
 
@@ -56,7 +56,7 @@ I specialize in turning WordPress into a **custom-engineered CMS**, combining it
 
 ### 💼 Selected Experience
 
-**Full Stack Web Developer — goodvibe GmbH (2022–2026)**
+**Senior Full Stack Web Developer — goodvibe GmbH (2022–2026)**
 - Developed **custom plugins and integrations** for e-commerce platforms
 - Led **site migrations and infrastructure upgrades**
 - Improved **performance, SEO, and system stability**
@@ -80,7 +80,6 @@ I specialize in turning WordPress into a **custom-engineered CMS**, combining it
 ### 📚 Learning
 
 - Svelte & advanced frontend patterns
-- Automation with n8n
 - German (B1 → B2)
 - Italian (A1)
 
