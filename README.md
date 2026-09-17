@@ -1,92 +1,73 @@
 ## Hi, I'm Dax Castellón 👋
 
-Senior Full Stack Web Developer with 20+ years of experience building **high-performance websites and scalable e-commerce platforms**.
+Senior Web and E-commerce Developer with 20+ years of experience building and maintaining **production websites, e-commerce platforms and business integrations**.
 
-I specialize in turning WordPress into a **custom-engineered CMS**, combining it with modern frontend frameworks and solid backend architecture.
+My strongest background is in **JavaScript, PHP, WordPress/WooCommerce, REST APIs, databases, performance and web infrastructure**. I'm currently developing practical skills in **TypeScript and React**, with working knowledge of **Node.js, PostgreSQL, Svelte and Astro**.
 
 ---
 
 ### 🚀 What I bring
 
-- Built and maintained **custom WordPress & WooCommerce solutions** for real businesses
-- Developed **bespoke plugins** tailored to complex workflows and integrations
-- Improved **performance, SEO, and security** across multiple production systems
-- Managed **servers, migrations, and cloud environments**
-- Integrated **external services via REST APIs** (ERP, marketing tools, etc.)
-
----
-
-### 🧠 Core Expertise
-
-- **Custom WordPress Development** (Themes, Plugins, WooCommerce)
-- **Performance Optimization & SEO** (Core Web Vitals, structured data)
-- **API Integrations** (REST, third-party services, ERP systems)
-- **Server & Infrastructure Management** (LAMP, Cloudflare, hosting)
-- **E-commerce Systems** (scalable, optimized, reliable)
+- Build and maintain custom WordPress and WooCommerce solutions for real businesses  
+- Develop bespoke plugins for complex workflows and integrations  
+- Improve performance, SEO, accessibility and production stability  
+- Manage hosting, migrations, servers and cloud environments  
+- Integrate external services, marketing platforms and ERP systems through REST APIs  
+- Support marketing teams with web assets, image editing and occasional video editing
 
 ---
 
 ### 🔧 Tech Stack
 
-**Frontend**
-- HTML5, CSS3, SASS, LESS
-- JavaScript (ES6+), Svelte, Next.js
-- Tailwind, Bootstrap, Foundation
-
-**Backend / CMS**
-- PHP 8+
-- WordPress (custom-first approach)
-- WooCommerce
-- Strapi (headless CMS)
-
-**Data**
-- MySQL, MariaDB, PostgreSQL
-
-**DevOps & Infra**
-- Git, Cloudflare, Apache
-- cPanel, Cloudways
-- Local environments (Docker, XAMPP, Local)
-
-**SEO & Analytics**
-- Technical SEO
-- Schema.org structured data
-- Google Analytics
+- **Programming & Markup:** JavaScript (ES6), PHP 8.3, HTML5, CSS3, jQuery, LESS, SASS, REST APIs  
+- **CMS, E-commerce & ERP:** WordPress, WooCommerce, Strapi CMS, JTL ERP  
+- **Databases:** MySQL, MariaDB, PostgreSQL  
+- **Additional Web Technologies:** Node.js, Svelte, Astro  
+- **Currently Learning:** TypeScript, React, Python and AI fundamentals  
+- **DevOps & Infrastructure:** Git, Cloudflare, cPanel, Cloudways, LAMP, Nginx, Apache  
+- **SEO & Analytics:** On-site SEO, Schema.org structured data, Google Analytics, Umami Analytics, Ahrefs, Screaming Frog  
+- **CSS Frameworks:** Bootstrap, Foundation, Tailwind  
+- **Design & Media:** Figma, Photoshop, Lightroom, Premiere, DaVinci Resolve
 
 ---
 
 ### 💼 Selected Experience
 
 **Senior Full Stack Web Developer — goodvibe GmbH (2022–2026)**
-- Developed **custom plugins and integrations** for e-commerce platforms
-- Led **site migrations and infrastructure upgrades**
-- Improved **performance, SEO, and system stability**
-- Integrated **JTL ERP with WordPress/WooCommerce**
 
-**Freelance & Agency Work (2010–2021)**
-- Delivered **end-to-end web solutions** (design → development → deployment)
-- Built **custom CMS solutions and e-commerce platforms**
-- Managed hosting, servers, and optimization
+- Developed custom plugins and integrations for e-commerce platforms  
+- Led site migrations and infrastructure upgrades  
+- Improved performance, SEO and system stability  
+- Integrated JTL ERP with WordPress and WooCommerce
+
+**Freelance & Agency Work (2007–2021)**
+
+- Delivered end-to-end web solutions from design to deployment  
+- Built custom CMS solutions and e-commerce platforms  
+- Managed hosting, servers, maintenance and optimization  
+- Produced and edited digital assets for web and marketing projects
 
 ---
 
 ### ⚡ Current Focus
 
-- Building **Svelte frontends with WordPress (headless / hybrid)**
-- Exploring **modern CMS architectures**
-- Learning **Astro, Python, and AI fundamentals**
+- Developing practical skills in TypeScript and React  
+- Expanding experience with Svelte, Astro and modern CMS architectures  
+- Learning Python and AI fundamentals
 
 ---
 
-### 📚 Learning
+### 🌍 Languages
 
-- Svelte & advanced frontend patterns
-- German (B1 → B2)
-- Italian (A1)
+- Spanish: Native  
+- English: Very good oral and written  
+- German: B1, progressing towards B2  
+- Italian: A1, progressing towards A2
 
 ---
 
 ### ☕ Contact
 
-- Portfolio: https://daxcastellon.dev
-- GitHub: https://github.com/dcaste
-- LinkedIn: https://www.linkedin.com/in/daxcastellonmeyrat/
+- Portfolio: [https://daxcastellon.dev](https://daxcastellon.dev)  
+- GitHub: [https://github.com/dcaste](https://github.com/dcaste)  
+- LinkedIn: [https://www.linkedin.com/in/daxcastellonmeyrat/](https://www.linkedin.com/in/daxcastellonmeyrat/)
