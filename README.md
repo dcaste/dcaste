@@ -62,7 +62,7 @@ My strongest background is in **JavaScript, PHP, WordPress/WooCommerce, REST API
 - Spanish: Native  
 - English: Very good oral and written  
 - German: B1, progressing towards B2  
-- Italian: A1, progressing towards A2
+- Italian: A2, progressing towards A2
 
 ---
 
